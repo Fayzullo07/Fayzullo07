@@ -5,5 +5,5 @@ The technologies I know are <b>MERN STACK</b>, i.e. <b>MongoDB</b>, <b>ExpressJS
 But mainly I'm a Backend Developer.
 
 <a href="https://t.me/fayzulloh07">
-  <img src="http://techcrunch.com/2014/02/24/telegram-saw-8m-downloads-after-whatsapp-got-acquired/" width="27px" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATelegram_logo.svg&psig=AOvVaw1w4NlAxqy6FauKNdSFsqBt&ust=1682430147284000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCMjOzSwv4CFQAAAAAdAAAAABAF" width="27px" />
 </a>

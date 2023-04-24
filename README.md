@@ -5,5 +5,5 @@ The technologies I know are <b>MERN STACK</b>, i.e. <b>MongoDB</b>, <b>ExpressJS
 But mainly I'm a Backend Developer.
 
 <a href="https://t.me/fayzulloh07">
-  <img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" width="40px" />
+  <b>Contact: </b><img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" width="40px" />
 </a>

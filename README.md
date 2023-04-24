@@ -1,4 +1,4 @@
-### Hi, I'm Fayzullo Jurayev <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47gkaaa0a4thwrht7adjxxq9qlf2tatc26t2qrzid7&rid=giphy.gif&ct=s" width="30" /> 👋
+### Hi, I'm Fayzullo Jurayev <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47gkaaa0a4thwrht7adjxxq9qlf2tatc26t2qrzid7&rid=giphy.gif&ct=s" width="100" /> 👋
 
 <!--
 **Fayzullo07/Fayzullo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

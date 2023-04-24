@@ -4,4 +4,4 @@ I'm Software Develope.<br/>
 The technologies I know are <b>MERN STACK</b>, i.e. <b>MongoDB</b>, <b>ExpressJS</b>, <b>ReactJS</b> and <b>NodeJS</b>, <br/>
 But mainly I'm a Backend Developer.
 
-<a href="https:tme/fayzulloh07">Telegram</a>
+<a href="https://t.me/fayzulloh07">Telegram</a>

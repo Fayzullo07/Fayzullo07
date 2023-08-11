@@ -2,7 +2,7 @@
 
 I'm Software Developer.<br/>
 The technologies I know are <b>MERN STACK</b>, i.e. <b>MongoDB</b>, <b>ExpressJS</b>, <b>ReactJS</b> and <b>NodeJS</b>, <br/>
-But mainly I'm a Backend Developer.
+But mainly I'm a Frontend Developer.
 
 <a href="https://t.me/fayzulloh07">
 <img src="https://download.logo.wine/logo/Telegram_(software)/Telegram_(software)-Logo.wine.png" width="40px" />

@@ -7,8 +7,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mongodb,js,ts,react,nextjs" />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb" />
     <img src="https://skillicons.dev/icons?i=github,firebase,nginx,postman,npm,pnpm,git,figma" />
     <img src="https://skillicons.dev/icons?i=vscode,htmx" />
 </div>

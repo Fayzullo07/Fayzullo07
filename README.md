@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋.+I'm+Leo+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋.+I'm+Fayzullo+😎;" />
 </h1>
 
 ## **`Full Stack Developer`** I'm a dedicated web developer focused on creating efficient and user-friendly solutions. Passionate about solving complex problems and delivering high-quality work through hands-on practice and continuous learning. Strives to build applications that prioritize simplicity and usability.

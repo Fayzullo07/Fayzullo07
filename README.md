@@ -7,7 +7,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Sass,js,htmx,ts,react,nextjs,tailwind,git,figma,npm,pnpm" />
+    <img src="https://skillicons.dev/icons?i=sass,js,htmx,ts,react,nextjs,tailwind,git,figma,npm,pnpm" />
     <img src="https://skillicons.dev/icons?i=github,firebase,nginx,postman" />
     <img src="https://skillicons.dev/icons?i=notion,vscode" />
 </div>

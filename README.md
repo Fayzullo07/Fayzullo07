@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋.+I'm+Fayzullo+😎;" />
 </h1>
 
-## **`Full Stack Developer`** I'm a dedicated web developer focused on creating efficient and user-friendly solutions. Passionate about solving complex problems and delivering high-quality work through hands-on practice and continuous learning. Strives to build applications that prioritize simplicity and usability.
-
+## **`Full Stack Developer
+I am a passionate and dedicated web developer committed to crafting efficient, user-centric, and high-quality solutions. With a focus on solving complex challenges, I thrive on transforming ideas into seamless, intuitive applications. Through hands-on practice and continuous learning, I strive to deliver innovative solutions that prioritize simplicity, usability, and performance.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">

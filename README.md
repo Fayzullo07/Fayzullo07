@@ -7,9 +7,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=sass,bootstrap,mongodb,js,htmx,ts,react,nextjs,tailwind,git,figma,npm,pnpm" />
-    <img src="https://skillicons.dev/icons?i=github,firebase,nginx,postman" />
-    <img src="https://skillicons.dev/icons?i=notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,mongodb,js,ts,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=github,firebase,nginx,postman,npm,pnpm,git,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,htmx" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>

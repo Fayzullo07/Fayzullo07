@@ -9,7 +9,7 @@ I am a passionate and dedicated web developer committed to crafting efficient, u
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind" />
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,mongodb" />
-    <img src="https://skillicons.dev/icons?i=git,github,firebase,nginx,postman,npm,pnpm,yarn,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,nginx,postman,npm,pnpm,yarn,figma,slack" />
     <img src="https://skillicons.dev/icons?i=vscode,htmx" />
 </div>
 
